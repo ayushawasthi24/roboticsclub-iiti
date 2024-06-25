@@ -56,7 +56,7 @@ export default function Home() {
                 We are a diverse group of students passionate about robotics and
                 innovation. Our club operates under the Science and Tech Council
                 at IIT Indore, fostering creativity and practical application of
-                theoretical knowledge. Whether you're into remote-controlled
+                theoretical knowledge. Whether you&apos;re into remote-controlled
                 cars or advanced robotics, our community welcomes you. We thrive
                 on the diversity of our members, leveraging various technical
                 backgrounds to craft innovative solutions for automation
