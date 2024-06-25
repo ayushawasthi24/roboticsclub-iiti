@@ -1,0 +1,14 @@
+.team-carousel {
+  display: flex;
+  overflow-x: hidden; /* Hide native scrollbar */
+}
+
+.team-member {
+  flex: 0 0 auto;
+  margin-right: 1rem; /* Adjust margin between team members */
+  transition: transform 0.3s ease-in-out; /* Optional: Add smooth transition effect */
+}
+
+.team-member:last-child {
+  margin-right: 0;
+}
